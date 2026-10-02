@@ -1,23 +1,37 @@
-body {
-    background-color: #080808;
+:root{
+    --rosso:#e30613;
+    --nero:#080808;
+    --bianco:#ffffff;
+    --grigio:#cccccc;
+    --font:Arial,sans-serif;
+}
+
+body{
+    background-color:#080808;
     color: white;
-    font-family: Arial, sans-serif;
-    text-align: center;
+    font-family:Arial,sans-serif;
+    text-align:center;
 }
 
-h1 {
-    color: #e30613;
-    font-size: 70px;
-    margin-top: 100px;
-    margin-bottom: 10px;
+h1{
+    color:#e30613;
+    font-size:70px;
+    margin-top:100px;
+    margin-bottom:10px;
 }
 
-h2 {
-    font-size: 30px;
-    color: white;
+h2{
+    font-size:30px;
+    color:white;
 }
 
-p {
+p{
     font-size: 20px;
-    color: #cccccc;
+    color:#cccccc;
 }
+
+body {
+    background: url("https://cdn.sortiraparis.com/images/80/66131/1300121-ea-sports-fc-27-kylian-mbappe-fait-son-retour-sur-la-jaquette-du-jeu.jpg") center/cover no-repeat;
+}
+
+
