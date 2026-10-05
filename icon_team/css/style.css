@@ -31,7 +31,11 @@ p{
 }
 
 body {
-    background: url("https://cdn.sortiraparis.com/images/80/66131/1300121-ea-sports-fc-27-kylian-mbappe-fait-son-retour-sur-la-jaquette-du-jeu.jpg") center/cover no-repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQproI-AKh9qf2P2k5DAlipkvx2FmjdOeLtBfNyYyyXHA&s=10");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+     min-height: 100vh; 
 }
 
 
